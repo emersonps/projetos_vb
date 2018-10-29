@@ -1,0 +1,10 @@
+c:\users\koddigo\documents\visual studio 2015\Projects\WindowsApplication-Final\WindowsApplication-Final\bin\Debug\WindowsApplication-Final.exe.config
+c:\users\koddigo\documents\visual studio 2015\Projects\WindowsApplication-Final\WindowsApplication-Final\bin\Debug\WindowsApplication-Final.exe
+c:\users\koddigo\documents\visual studio 2015\Projects\WindowsApplication-Final\WindowsApplication-Final\bin\Debug\WindowsApplication-Final.pdb
+c:\users\koddigo\documents\visual studio 2015\Projects\WindowsApplication-Final\WindowsApplication-Final\bin\Debug\WindowsApplication-Final.xml
+c:\users\koddigo\documents\visual studio 2015\Projects\WindowsApplication-Final\WindowsApplication-Final\obj\Debug\WindowsApplication_Final.Form1.resources
+c:\users\koddigo\documents\visual studio 2015\Projects\WindowsApplication-Final\WindowsApplication-Final\obj\Debug\WindowsApplication_Final.Resources.resources
+c:\users\koddigo\documents\visual studio 2015\Projects\WindowsApplication-Final\WindowsApplication-Final\obj\Debug\WindowsApplication-Final.vbproj.GenerateResource.Cache
+c:\users\koddigo\documents\visual studio 2015\Projects\WindowsApplication-Final\WindowsApplication-Final\obj\Debug\WindowsApplication-Final.exe
+c:\users\koddigo\documents\visual studio 2015\Projects\WindowsApplication-Final\WindowsApplication-Final\obj\Debug\WindowsApplication-Final.xml
+c:\users\koddigo\documents\visual studio 2015\Projects\WindowsApplication-Final\WindowsApplication-Final\obj\Debug\WindowsApplication-Final.pdb
